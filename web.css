@@ -1,0 +1,82 @@
+body {
+background-color: rgb(241, 245, 238);
+}
+.main{
+    h1{
+        text-align: center;
+        text-size-adjust: auto;
+        font-size: 50px;
+        color:rgb(32, 20, 6);
+    }
+    p{
+        text-align: center;
+        text-size-adjust: auto;
+        font-size: 30px;
+        color:brown;
+    }
+}
+    .introduction {
+    h1 {
+        text-align: center;
+        text-size-adjust: auto;
+        font-size: 30px;
+        color:rgb(13, 3, 22)
+    }
+    h2 {
+        text-align: left;
+        font-size: 35px;
+        color:crimson;
+    }
+    h3 {
+        text-align: left;
+        font-size: 35px;
+        color:crimson;
+    }
+    p {
+        text-align: center;
+        font-size: 25px;
+    }
+    li {
+        list-style-type: square;
+        font-size: 25px;
+        text-align: center;
+        line-height: 150%;
+        color: blue; 
+    }
+}
+    .charecter {
+    h1 {
+    text-align: center;
+    font-size: 30px;
+    color:black;
+    } 
+    p {
+        color: green;
+    }
+    li {
+        text-align: center;
+        font-size: 25px;
+        color: crimson;
+        list-style: decimal;
+        line-height: 100px;
+        
+    }
+
+    }
+    
+.levels{
+     text-align: left;
+        font-size: 25px;
+    h1 {
+        color:black;
+        text-align: center;
+        font-size: 30px;
+    }
+    li {
+        color:blue;
+        text-align: center;
+        font-size: 25px;
+        line-height: 200% ;
+        
+    }
+}
