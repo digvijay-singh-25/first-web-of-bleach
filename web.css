@@ -69,14 +69,128 @@ background-color: rgb(241, 245, 238);
         font-size: 25px;
     h1 {
         color:black;
-        text-align: center;
+        text-align: center; 
         font-size: 30px;
     }
     li {
         color:blue;
         text-align: center;
         font-size: 25px;
-        line-height: 200% ;
+        line-height: 400% ;
         
     }
+}
+.race h1{
+    font-size: 30px;
+        text-align:center;
+        color: #1a0202;
+}
+.race ul {
+    text-align: left;
+    font-size: 30px;
+    color: rgb(190, 8, 251);
+    list-style: square;
+}
+.race ol {
+     text-align: center;
+     font-size: 25px;
+     color: red;
+     line-height: 400%;
+}
+.para_human p {
+    text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+
+}
+.para_fullbringer p {
+    text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_quincy p {
+    text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_bount p {
+    text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_plus p {
+     text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_shinigami p {
+  text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_visored p {
+ text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_visored p {
+ text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_arrancar p {
+ text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_hollow p {
+ text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_zanpakto p {
+ text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_toju p {
+ text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_gikon p {
+ text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_kush p {
+ text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_modi p {
+ text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
+}
+.para_being p {
+ text-align: left;
+    font-size: 27px;
+    line-height: 150%;
+    color: blue;
 }
